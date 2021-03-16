@@ -1,5 +1,5 @@
 /** Author: Daniel Brown
- *  Date: March 2, 2021
+ *  Date: March 1, 2021
  * 
  * This code uses two threads running concurrently. One thread
  * accepts user input and the other thread computes the sum of
