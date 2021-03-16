@@ -1,5 +1,5 @@
 /** Author: Daniel Brown
- *  Date: March 10, 2021
+ *  Date: March 9, 2021
  * 
  * This code simulates farmers headed north and south crossing
  * a single lane bridge using two threads running concurrently
